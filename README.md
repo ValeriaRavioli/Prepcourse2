@@ -1,2 +1,3 @@
 # Prepcourse2
-repositorio de prueba del modulo 2 
+Esta es una prueba de como se puede clonar el repositorio a mi github
+
